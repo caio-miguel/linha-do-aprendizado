@@ -1,0 +1,92 @@
+* { 
+	margin: 0;        
+	padding: 0;       
+}
+
+.logo{
+    float: right;
+    max-width: 20%;
+    max-height: 40px;
+}
+
+body{
+	background:linear-gradient(to right,rgb(115, 206, 88), #0b661a);
+	height:100%;
+    box-shadow: rgb(115, 206, 88);
+}
+
+.astorga{
+    text-align: center;
+    color: aliceblue;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.header img{
+	width: 100%;
+	height: 150px;
+}
+
+.menu table{
+	width: 75%;
+	margin-top: 0px;
+	margin-left: 12%;
+	background:transparent;
+	text-align: center;
+}
+
+.menu table a{
+	text-decoration:none; 
+	color: white;
+	font-size: 35px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+.header table{
+
+	width: 100%;
+	height: 150px;
+}
+
+.menu table span{
+	color: white;
+	font-size: 35px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.image {
+	float: right; 
+	margin-top: 3%;
+	max-height: 50px;
+	max-width: 20%;
+}
+
+.rodapé {
+	background-color: rgb(14, 112, 11);
+	text-align: center;
+    margin-top: 120px;
+	border-bottom: 5px solid rgb(21, 105, 18);
+	width: 100%;
+    color: white;
+}
+
+.navegacao{
+    text-align: left;
+    color: white;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.main { 
+	background-color: white;
+	margin-top: 4px;
+	margin-left: 12%;
+	width: 75%;
+	text-align: center;
+	box-shadow: 15px 15px 15px rgb(78, 192, 11);
+	padding-bottom: 30px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 20px;
+    
+}

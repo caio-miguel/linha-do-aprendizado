@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../GitHub/Cidade_Trabalho/css"
+		},
+		{
+			"path": "../../GitHub/Cidade_Trabalho/audio"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Cidade_Trabalho",
+		"liveServer.settings.port": 5501
+	}
+}
